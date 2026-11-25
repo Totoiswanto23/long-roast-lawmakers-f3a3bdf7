@@ -1,0 +1,1 @@
+{"description":"One satirical sentence roasting lawmakers who would regulate AI but cannot convert a file to PDF: a committee hearing stalls for ten minutes because nobody in the room knows which button saves the bill as a PDF.","license":"MIT","main":"main.ts","name":"long-roast-lawmakers-f3a3bdf7","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
